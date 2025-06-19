@@ -55,4 +55,4 @@ python script.py
 
 ---
 
-Автор: [ваше имя или команда]
+Автор: [BigBrewMaster]
